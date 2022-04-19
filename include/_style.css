@@ -10,5 +10,8 @@ body.view {
 }
 
 .preview .Sample {
+    max-height: 208px !important;
+    max-width: 208px !important;
+    height: 208px !important;
     overflow-wrap: break-word;
 }
